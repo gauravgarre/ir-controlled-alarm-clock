@@ -22,7 +22,7 @@
 #define DATA 2      // 74HC595  pin 2 DS
 #define LATCH 3     // 74HC595  pin 3 STCP
 #define CLOCK 4     // 74HC595  pin 4 SHCP
-#define RECEIVER 5  // IR receiver  pin 13
+#define RECEIVER 6  // IR receiver  pin 6
 #define ALARM_LED 7 // ALARM led pin 7
 #define SET_LED 8   // SET led  pin 8
 #define D1 9        // Digit 1 of digit display
